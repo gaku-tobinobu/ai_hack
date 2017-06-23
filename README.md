@@ -1,2 +1,1 @@
-# ai_hack
-Global AI Hackathon
+# ai-hackathon-17-van
